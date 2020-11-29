@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,amazonvideo.com,Amazon
 DOMAIN-SUFFIX,llnwd.net,Amazon
 DOMAIN-SUFFIX,primevideo.com,Amazon
 DOMAIN-SUFFIX,amazon.ca,Amazon
-DOMAIN-KEYWORD,amazon.com,Amazon
+# DOMAIN-KEYWORD,amazon.com,Amazon
 IP-CIDR,13.32.0.0/15,Amazon
 IP-CIDR,13.35.0.0/17,Amazon
 IP-CIDR,18.184.0.0/15,Amazon
