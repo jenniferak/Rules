@@ -1,21 +1,21 @@
 payload:
 # OneDrive
-  - DOMAIN-KEYWORD,1drv,🚀 节点选择
-  - DOMAIN-KEYWORD,onedrive,🚀 节点选择
-  - DOMAIN-KEYWORD,skydrive,🚀 节点选择
-  - DOMAIN-SUFFIX,livefilestore.com,🚀 节点选择
-  - DOMAIN-SUFFIX,oneclient.sfx.ms,🚀 节点选择
-  - DOMAIN-SUFFIX,onedrive.com,🚀 节点选择
-  - DOMAIN-SUFFIX,onedrive.live.com,🚀 节点选择
-  - DOMAIN-SUFFIX,photos.live.com,🚀 节点选择
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com,🚀 节点选择
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🚀 节点选择
-  - DOMAIN-SUFFIX,storage.live.com,🚀 节点选择
-  - DOMAIN-SUFFIX,storage.msn.com,🚀 节点选择
-  - DOMAIN-SUFFIX,aria.microsoft.com,🚀 节点选择
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,photos.live.com
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN-SUFFIX,storage.msn.com
+  - DOMAIN-SUFFIX,aria.microsoft.com
 # 常用网站
-  - DOMAIN,www.clipconverter.cc,🚀 节点选择
-  - DOMAIN-SUFFIX,r18.com,🚀 节点选择
-  - DOMAIN-SUFFIX,jable.tv,🚀 节点选择
-  - DOMAIN,www.v2rayssr.com,🚀 节点选择
-  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
+  - DOMAIN,www.clipconverter.cc
+  - DOMAIN-SUFFIX,r18.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN,www.v2rayssr.com
+  - DOMAIN-SUFFIX,1password.com
