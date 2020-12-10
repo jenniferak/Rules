@@ -1,8 +1,0 @@
-# > Speedtest
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-SUFFIX,zdbb.net
-DOMAIN-SUFFIX,bluekai.com
-DOMAIN,l.betrad.com
-DOMAIN-SUFFIX,speed.cloudflare.com
-USER-AGENT,speedtest*
