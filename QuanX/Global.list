@@ -1,17 +1,3 @@
-# OneDrive
-DOMAIN-KEYWORD,1drv,Global
-DOMAIN-KEYWORD,onedrive,Global
-DOMAIN-KEYWORD,skydrive,Global
-DOMAIN-SUFFIX,livefilestore.com,Global
-DOMAIN-SUFFIX,oneclient.sfx.ms,Global
-DOMAIN-SUFFIX,onedrive.com,Global
-DOMAIN-SUFFIX,onedrive.live.com,Global
-DOMAIN-SUFFIX,photos.live.com,Global
-DOMAIN-SUFFIX,skydrive.wns.windows.com,Global
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Global
-DOMAIN-SUFFIX,storage.live.com,Global
-DOMAIN-SUFFIX,storage.msn.com,Global
-DOMAIN-SUFFIX,aria.microsoft.com,Global
 # 常用网站
 DOMAIN,www.clipconverter.cc,Global
 DOMAIN-SUFFIX,1password.com,Global
