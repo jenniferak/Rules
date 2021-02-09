@@ -1,0 +1,12 @@
+payload:
+# OneDrive
+  - PROCESS-NAME,FileCoAuth.exe,🌍国外网站
+  - PROCESS-NAME,FileSyncConfig.exe,🌍国外网站
+  - PROCESS-NAME,FileSyncHelper.exe,🌍国外网站
+  - PROCESS-NAME,Microsoft.Nucleus.exe,🌍国外网站
+  - PROCESS-NAME,Microsoft.Nucleus.NativeMessagingClient.exe,🌍国外网站
+  - PROCESS-NAME,OneDrive.exe,🌍国外网站
+  - PROCESS-NAME,OneDriveFileLauncher.exe,🌍国外网站
+  - PROCESS-NAME,OneDriveSetup.exe,🌍国外网站
+  - PROCESS-NAME,OneDriveStandaloneUpdater.exe,🌍国外网站
+  - PROCESS-NAME,OneDriveUpdaterService.exe,🌍国外网站
