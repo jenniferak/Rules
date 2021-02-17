@@ -1,1 +1,13 @@
 payload:
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,com.twitter.android
+  # Google服务
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.syncadapters.calendar
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.gsf.login
+  - PROCESS-NAME,com.google.android.syncadapters.contacts
+  
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gm
+  - PROCESS-NAME,com.google.android.apps.googlevoice
