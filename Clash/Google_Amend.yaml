@@ -1,4 +1,4 @@
-  # > Google
+# > Google
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN,clientservices.googleapis.com
@@ -6,10 +6,10 @@
   - DOMAIN,dl.l.google.com
   - DOMAIN,update.googleapis.com
   - DOMAIN,translate.googleapis.com
-  # >> Google Fonts API
+# >> Google Fonts API
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
-  # >> Firebase Cloud Messaging
+# >> Firebase Cloud Messaging
   - DOMAIN,mtalk.google.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
