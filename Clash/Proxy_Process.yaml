@@ -10,3 +10,20 @@ payload:
   - PROCESS-NAME,OneDriveSetup.exe
   - PROCESS-NAME,OneDriveStandaloneUpdater.exe
   - PROCESS-NAME,OneDriveUpdaterService.exe
+# Dropbox
+  - PROCESS-NAME,DropboxUpdate.exe
+  - PROCESS-NAME,DropboxUpdateSetup_1.3.415.1.exe
+  - PROCESS-NAME,DropboxClient_116.4.368.exe
+  - PROCESS-NAME,DropboxCrashHandler.exe
+  - PROCESS-NAME,DropboxUpdateBroker.exe
+  - PROCESS-NAME,DropboxUpdateOnDemand.exe
+  - PROCESS-NAME,Dropbox.exe
+  - PROCESS-NAME,DropboxUninstaller.exe
+  - PROCESS-NAME,DropboxThumbnailGenerator.exe
+  - PROCESS-NAME,QtWebEngineProcess.exe
+  - PROCESS-NAME,dbxsvc.exe
+# Telegram
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,Updater.exe
+# 1Password
+  - PROCESS-NAME,1Password.exe
