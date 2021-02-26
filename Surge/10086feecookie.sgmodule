@@ -7,4 +7,4 @@
 中国移动-getRealFee = type=http-request,pattern=^https:\/\/clientaccess.10086.cn\/biz-orange\/BN\/realFeeQuery\/getRealFee,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.cookie.js,requires-body=true,debug=true
 
 [MITM]
-hostname = clientaccess.10086.cn
+hostname = %APPEND% clientaccess.10086.cn
