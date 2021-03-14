@@ -1,10 +1,10 @@
  payload:
  # cnix(ssrcloud)
-  - DOMAIN-SUFFIX,ntt-co-jp.club
-  - DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
-  - DOMAIN-SUFFIX,xn--mesh0sv88c.com
-  - DOMAIN-SUFFIX,www.114514.gay
-  - DOMAIN-SUFFIX,airport-gov-cn.com
-  - DOMAIN-SUFFIX,cnix-gov-cn.com
-  - DOMAIN-SUFFIX,sgicc.airport-gov-cn.com:59999
-  - DOMAIN-SUFFIX,xn--wck3bl6f2a2hb.xn--p8jr2b2a2b5gvc4ed.com
+  - DOMAIN,ntt-co-jp.club
+  - DOMAIN,xn--d4ty0ojsqzfd.com
+  - DOMAIN,xn--mesh0sv88c.com
+  - DOMAIN,www.114514.gay
+  - DOMAIN,airport-gov-cn.com
+  - DOMAIN,cnix-gov-cn.com
+  - DOMAIN,sgicc.airport-gov-cn.com:59999
+  - DOMAIN,xn--wck3bl6f2a2hb.xn--p8jr2b2a2b5gvc4ed.com
